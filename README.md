@@ -1,6 +1,6 @@
 # Packet Storm Challenge
 
-Submission for the packet storm challenge, optimized for execution time.
+Submission for the packet storm challenge, optimized for execution time. Analyses the 1,000,000 packets in <60ms on my laptop.
 
 ## Usage
 
