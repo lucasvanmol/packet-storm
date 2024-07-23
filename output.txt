@@ -1,0 +1,12 @@
+Average Packet Size: 147.258908
+Total Volume: 147258908
+Destination IPs:
+229.154.57.192: 17
+86.213.243.19: 16
+13.40.26.174: 16
+62.36.30.144: 16
+215.96.44.170: 16
+Protocols:
+Protocol UDP: 59163
+Protocol TCP: 940837
+Protocol Other: 0
